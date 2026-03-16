@@ -8,9 +8,7 @@ I am a passionate Data Science student focusing on transforming complex data int
 ### 🛠 Tech Stack
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 - **Data Visualization:** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-- **Tools:** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-A4C639?style=flat-square&logo=android&logoColor=white)
-
----
+- **Tools:** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### 🌟 Key Highlights
 - 📊 **Data Analysis:** Experienced in Python-based statistical analysis and data cleaning.
